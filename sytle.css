@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.rang{
+    background-color: #555;
+}
+.btn-group {
+    display: block;
+    box-sizing: border-box;
+}
+.btn-info{ 
+    /* display: block; */
+    float: left;
+    width: 25%;
+    border: 2px solid;
+}
